@@ -1,5 +1,5 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/22b22287602523.5dbd29081561d.gif)](https://shreejal27.io)
-<h1 align="center">Hi 👋, I'm Shreejal Maharjan</h1>
+<h1 align="center">Hello There 👋, I'm Shreejal Maharjan</h1>
 <h3 align="center">Hungry Learner & Tech Enthusiast</h3>
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
