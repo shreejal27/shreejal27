@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/shreejal27" target="blank"><img src="https://img.shields.io/twitter/follow/shreejal27?logo=twitter&style=for-the-badge" alt="shreejal27" /></a> </p>
 
-- 🔭 I’m currently working on **<a href="https://maharjanshreejal.com.np/?i=1" target="_blank" rel="noopener noreferrer">My Website</a>** 
+- 🔭 I’m currently working on **<a href="https://maharjanshreejal.com.np/?i=1" target="_blank">My Website</a>** 
 
 - 🌱 I’m currently learning **C#, Flutter**
 
