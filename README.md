@@ -30,9 +30,8 @@
  <a href="https://linkedin.com/in/shreejal27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shreejal27" height="30" width="40" /></a>
 </p>
 
-&nbsp;**This week I spent my time on**
 <p align = "center">
-<img src="https://wakatime.com/share/@f7bcd467-1ce1-486c-b161-4b648d210835/a769a0d5-ec86-449a-a721-2c3f74b9e2a9.svg">
+<img src="https://wakatime.com/share/@f7bcd467-1ce1-486c-b161-4b648d210835/a769a0d5-ec86-449a-a721-2c3f74b9e2a9.svg" height= "400px">
 </p>
 
 
