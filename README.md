@@ -41,7 +41,7 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shreejal27&theme=tokyonight&utcOffset=8)
 
 <p align = "left">
-<img src="https://wakatime.com/share/@f7bcd467-1ce1-486c-b161-4b648d210835/a769a0d5-ec86-449a-a721-2c3f74b9e2a9.svg" height= "400px">
+<img src="https://wakatime.com/share/@f7bcd467-1ce1-486c-b161-4b648d210835/a769a0d5-ec86-449a-a721-2c3f74b9e2a9.svg" height= "500px">
 </p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shreejal27&" alt="shreejal27" /></p>
