@@ -44,4 +44,4 @@
 <img src="https://wakatime.com/share/@f7bcd467-1ce1-486c-b161-4b648d210835/a769a0d5-ec86-449a-a721-2c3f74b9e2a9.svg" height= "500px">
 </p>
 
-<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shreejal27&theme=dark&border_radius=5&card_width=500" alt="GitHub Streak" /></a></p>
+<p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=shreejal27&theme=tokyonight&border_radius=4.6&card_width=500" alt="GitHub Streak" /></a></p>
