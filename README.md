@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working to develop **<a href="https://maharjanshreejal.com.np" target="_blank">My Portfolio</a>** 
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React**.
 
 - 👯 I’m looking to collaborate on **Web Development**
 
