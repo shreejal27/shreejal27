@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React**.
 
-- 👯 I’m looking to collaborate on **Web Development**
+- 👯 I’m looking to collaborate on **Web Development**.
 
 - 💬 Ask me about **HTML, Javascript, PHP, Laravel, React**
 
