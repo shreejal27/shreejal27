@@ -15,7 +15,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**.
 
-- 💬 Ask me about **HTML, Javascript, PHP, Laravel, React**
+- 💬 Ask me about **HTML, Javascript, PHP, Laravel, React**.
 
 - 📫 How to reach me **shreejal27@gmail.com**
 
