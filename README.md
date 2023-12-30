@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **HTML, Javascript, PHP, Laravel, React**.
 
-- 📫 How to reach me **shreejal27@gmail.com**
+- 📫 How to reach me **shreejal27@gmail.com**.
 
 - ⚡ Fun fact:
   **Shreejal can game 24/7 without any problems but cannot control his crosshair like his life.**
