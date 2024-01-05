@@ -22,7 +22,7 @@
 - ⚡ Fun fact:
   **Shreejal can game 24/7 without any problems but cannot control his crosshair like his life.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://twitter.com/shreejal27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shreejal27" height="30" width="40" /></a>
 <a href="https://fb.com/shreejal27" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="shreejal27" height="30" width="40" /></a>
